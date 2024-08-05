@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @Midno
-
-<!---
-Midno/Midno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m currently in an software engineering education and I'm learning .NET (WPF), VB6 for my work
+- Additionally I'm currently working on a Minecraft Server System.
+- The trial version of IntelliJ Idea made me become a fan of JetBrains :D
